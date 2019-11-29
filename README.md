@@ -1,4 +1,4 @@
-# Node.js simple file upload
+# Node.js simple file upload and download
 
 ### Install and Run 
 ```
