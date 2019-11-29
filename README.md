@@ -1,5 +1,8 @@
 # Node.js simple file upload
 
+### orginal project
+git clone https://github.com/Majidkn/nodejs-simple-file-upload.git
+
 ### Dependencies
 - express
 - ejs
@@ -7,11 +10,14 @@
 - multer
 - server-index 
 
-### Run
+### Install and Run 
 ```
-> git clone https://github.com/Majidkn/nodejs-simple-file-upload.git
-> cd nodejs-simple-file-upload
+> git clone https://github.com/sbanca/Simple-Upload-Download-Server.git
+> cd Simple-Upload-Download-Server
 > npm install
 > npm start
 ```
-The application will be served on `:3000`
+The application will be served on `localhost:3000`
+Any file uploaded is served in this way `localhost:3000/download/filename`
+...
+
