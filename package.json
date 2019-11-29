@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Majidkn/nodejs-simple-file-upload.git"
+    "url": "git+https://github.com/sbanca/Simple-Upload-Download-Server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Majidkn/nodejs-simple-file-upload/issues"
+    "url": "https://github.com/sbanca/Simple-Upload-Download-Server/issues"
   },
-  "homepage": "https://github.com/Majidkn/nodejs-simple-file-upload#readme"
+  "homepage": "https://github.com/sbanca/Simple-Upload-Download-Server#readme"
 }
